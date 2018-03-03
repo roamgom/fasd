@@ -358,6 +358,13 @@ Path to XDG recently-used.xbel file for recently-used backend, defaults to
 
 ```
 
+# For zshell
+**FOR zsh users**
+Add below line to `.zshrc`
+```
+eval "$(fasd --init auto)"
+```
+
 # Debugging
 
 If fasd does not work as expected, please file a bug report describing the
