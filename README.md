@@ -364,8 +364,7 @@ Add below line to `.zshrc`
 ```
 eval "$(fasd --init auto)"
 ```
-or by adding
-()[https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/fasd/fasd.plugin.zsh]
+or by adding [link](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/fasd/fasd.plugin.zsh)
 
 # Debugging
 
